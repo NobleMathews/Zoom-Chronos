@@ -1,21 +1,21 @@
 ﻿disabled,day,start,course,link,id,pass,holidays
-no,mon,10,Introduction to Financial Management -3,https://zoom.us/j/93484035415?pwd=cHIxT2R3Znd1WlhlRlNaM3ZqRkM2UT09,,,26-01-2021
-no,mon,11,Process Heat Transfer -3,https://zoom.us/j/97555483067?pwd=YlVJTVN2d25RVUFiMW85cHA3cUFuZz09,,,09-03-2020
-no,mon,12,Fundamentals of Mass Transfer -3,https://zoom.us/j/96920491940?pwd=L2o2THM4Uk9oWG9sTE9WaWs0dVkyZz09,,,10-03-2020
-no,mon,14,Numerical Analysis -3,https://zoom.us/j/95821959327?pwd=ZlRPdmJUTk9IblFRN2tFVWdab2cxdz09,,,11-03-2020
-yes,mon,15,APE-II -1,https://zoom.us/j/99911145943?pwd=TnJuWTc4bGtvQWRwZllzRzU4MEcydz09,,,12-03-2020
-no,tue,10,Chemical Engineering Thermodynamics -4,https://zoom.us/j/93018903230?pwd=dFVpSE9JQ2FkcVJwL0xaSVRSR0phdz09,,,15-03-2020
-no,tue,14,Fundamentals of Mass Transfer -3,https://zoom.us/j/99808663304?pwd=QmJqL09zYW41elBJVUd5MkxZVjVnQT09,,,16-03-2020
-no,tue,15,Ecology and Environment -2,https://zoom.us/j/92467444909?pwd=dHpUQ3hEZDk0SGRxRUQ0SnQzLzY5Zz09,,,02-04-2020
-no,wed,9,Introduction to Financial Management -3,https://zoom.us/j/93484035415?pwd=cHIxT2R3Znd1WlhlRlNaM3ZqRkM2UT09,,,13-04-2020
-no,wed,10,Process Heat Transfer -3,https://zoom.us/j/93780848705?pwd=MWJRWFhDRGZYYjJjTlZpK2Zua0RXZz09,,,
-no,thu,9,Chemical Engineering Thermodynamics -4,https://zoom.us/j/93200508244?pwd=REFuaDB4M3RON0F3T1JBajBhejZodz09,,,
-no,thu,11,Introduction to Financial Management -3,https://zoom.us/j/93484035415?pwd=cHIxT2R3Znd1WlhlRlNaM3ZqRkM2UT09,,,
-no,thu,12,Fundamentals of Mass Transfer -3,https://zoom.us/j/92943476252?pwd=UTBpMjdtT2ZZVmorOTlGTWZTNWVNQT09,,,
-no,thu,14,Numerical Analysis -3,https://zoom.us/j/95821959327?pwd=ZlRPdmJUTk9IblFRN2tFVWdab2cxdz09,,,
-yes,thu,15,Fluid and Particle Mechanics Laboratory -2,https://zoom.us/j/97983452185?pwd=ZkFPYm82Z1hJVk9sMWJ4aTJKbERldz09,,,
-no,fri,9,Process Heat Transfer -3,https://zoom.us/j/98341089819?pwd=cUJuWGJaeXh3SFplQnZKd3BXOUFTUT09,,,
-no,fri,11, Chemical Engineering Thermodynamics -4,https://zoom.us/j/95504646611?pwd=VE95b2NRRTFjOWQvMTFhdDJWT3NpUT09,,,
-no,fri,12,Numerical Analysis -3,https://zoom.us/j/95821959327?pwd=ZlRPdmJUTk9IblFRN2tFVWdab2cxdz09,,,
-no,fri,14,Chemical Engineering Thermodynamics -4,https://zoom.us/j/97074941710?pwd=T082WkMxWkd2S2ZMWndFVDFZd0JTQT09,,,
-yes,fri,15,Heat Transfer Laboratory -2,,,,
+no,mon,10,Introduction to Financial Management -3,https://zoom.us/j/93484035415/ redacted so that I don’t leak pass,,,26-01-2021
+no,mon,11,Process Heat Transfer -3,https://zoom.us/j/93484035415/ redacted so that I don’t leak pass,,,09-03-2020
+no,mon,12,Fundamentals of Mass Transfer -3,https://zoom.us/j/93484035415/ redacted so that I don’t leak pass,,,10-03-2020
+no,mon,14,Numerical Analysis -3,https://zoom.us/j/93484035415/ redacted so that I don’t leak pass,,,11-03-2020
+yes,mon,15,APE-II -1,https://zoom.us/j/93484035415/ redacted so that I don’t leak pass,,,12-03-2020
+no,tue,10,Chemical Engineering Thermodynamics -4,https://zoom.us/j/93484035415/ redacted so that I don’t leak pass,,,15-03-2020
+no,tue,14,Fundamentals of Mass Transfer -3,https://zoom.us/j/93484035415/ redacted so that I don’t leak pass,,,16-03-2020
+no,tue,15,Ecology and Environment -2,https://zoom.us/j/93484035415/ redacted so that I don’t leak pass,,,02-04-2020
+no,wed,9,Introduction to Financial Management -3,https://zoom.us/j/93484035415/ redacted so that I don’t leak pass,,,13-04-2020
+no,wed,10,Process Heat Transfer -3,https://zoom.us/j/93484035415/ redacted so that I don’t leak pass,,,
+no,thu,9,Chemical Engineering Thermodynamics -4,https://zoom.us/j/93484035415/ redacted so that I don’t leak pass,,,
+no,thu,11,Introduction to Financial Management -3,https://zoom.us/j/93484035415/ redacted so that I don’t leak pass,,,
+no,thu,12,Fundamentals of Mass Transfer -3,https://zoom.us/j/93484035415/ redacted so that I don’t leak pass,,,
+no,thu,14,Numerical Analysis -3,https://zoom.us/j/93484035415/ redacted so that I don’t leak pass,,,
+yes,thu,15,Fluid and Particle Mechanics Laboratory -2,https://zoom.us/j/93484035415/ redacted so that I don’t leak pass,,,
+no,fri,9,Process Heat Transfer -3,https://zoom.us/j/93484035415/ redacted so that I don’t leak pass,,,
+no,fri,11, Chemical Engineering Thermodynamics -4,https://zoom.us/j/93484035415/ redacted so that I don’t leak pass,,,
+no,fri,12,Numerical Analysis -3,https://zoom.us/j/93484035415/ redacted so that I don’t leak pass,,,
+no,fri,14,Chemical Engineering Thermodynamics -4,https://zoom.us/j/93484035415/ redacted so that I don’t leak pass,,,
+yes,fri,15,Heat Transfer Laboratory -2,https://zoom.us/j/93484035415/ redacted so that I don’t leak pass,,,
